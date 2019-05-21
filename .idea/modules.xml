@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client-one/eureka-client-one.iml" filepath="$PROJECT_DIR$/eureka-client-one/eureka-client-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service.iml" filepath="$PROJECT_DIR$/micro-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule-task/schedule-task.iml" filepath="$PROJECT_DIR$/schedule-task/schedule-task.iml" />
+    </modules>
+  </component>
+</project>
